@@ -1,0 +1,23 @@
+### Module positions - created on Tue Feb 23 00:55:29 2021 ###
+### Printed by Pcbnew version kicad 5.1.9-73d0e3b20d~88~ubuntu16.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                     PosX       PosY       Rot  Side
+U2        W25Q32JVSS               SOIC-8_5.23x5.23mm_P1.27mm              124.8410  -124.5870  270.0000  bottom
+C1        10uF                     C_0603_1608Metric                       121.4120  -131.0640  270.0000  top
+C2        0.1uF                    C_0402_1005Metric                       128.5240  -124.2060   90.0000  top
+C3        10uF                     C_0603_1608Metric                       121.4120  -135.3820   90.0000  top
+D1        LED_RGB                  LED_E6C1615                             131.8260  -126.3650   90.0000  top
+D2        PMEG4002                 D_SOD-882                               121.4120  -133.2230    0.0000  top
+J1        Conn_01x04_MountingPin   QWIIC                                   125.0950  -119.6340  180.0000  top
+J3        USB_C_Receptacle_USB2.0  USB_C_Receptacle_XKB_U262-16XN-4BVC11   127.0000  -135.0010    0.0000  top
+R1        1K                       R_0402_1005Metric                       129.5400  -127.0000  180.0000  top
+R2        2K                       R_0402_1005Metric                       130.0480  -124.5870  180.0000  top
+R3        2K                       R_0402_1005Metric                       129.5400  -125.7300  180.0000  top
+R4        5.1k                     R_0402_1005Metric                       132.0800  -123.1900  180.0000  top
+R5        5.1k                     R_0402_1005Metric                       132.0800  -124.5870  180.0000  top
+R6        5.1k                     R_0402_1005Metric                       123.0884  -129.7432    0.0000  top
+R7        5.1k                     R_0402_1005Metric                       129.4130  -129.6670  180.0000  top
+SW1       SW_Push                  SW_Push_4pin_3.0x3.65mm                 131.1910  -119.6340  270.0000  top
+U1        MK32L2B_QFN32            QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm   124.8410  -126.1110   90.0000  top
+## End
