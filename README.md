@@ -9,3 +9,6 @@ This board is a tiny USB to Qwiic development board in a bread-board friendly DI
 ## Software Support
 
 This board is currently supported by the open source [TinyUSB](https://docs.tinyusb.org/en/latest/) and Adafruit's [TinyUF2](https://github.com/adafruit/tinyuf2) to enable drag-n-drop firmware updates.
+
+## Board Design Files
+The KiCad source files are included in this repository along with a [pdf copy of the schematic](out/kuiic.pdf).
